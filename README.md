@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michele!
 - 👀 I’m interested in Python and HTML/CSS
-- 🌱 I’m currently learning how to code responsive websites
+- 🌱 I’m currently learning JavaScript.
 - 💞️ I’m interested in collaborating - feel free to reach out at: hello@michelehelkenn.com!
 
 <!---
