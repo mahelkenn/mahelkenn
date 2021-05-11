@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michele!
-- 👀 I’m experienced in Python, HTML/CSS, JavaScript, and Coding Responsive Websites
+- 👀 I’m experienced in Python, HTML/CSS, JavaScript, and Coding Responsive Websites.
 - 🌱 I’m currently learning React.
 - 💞️ I’m interested in collaborating - feel free to reach out at: hello@michelehelkenn.com!
 
